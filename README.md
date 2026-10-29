@@ -1,17 +1,13 @@
 
-<div align="center">
+![Cybersecurity Profile Hero](https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/hero.svg)
 
-<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/hero.svg" width="100%" alt="Cybersecurity Profile Hero">
+![About Me](https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/about-life.svg)
 
-<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/about-life.svg" width="100%" alt="About Me">
+![Cybersecurity Toolkit](https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/stack.svg)
 
-<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/stack.svg" width="100%" alt="Cybersecurity Toolkit">
+![Learning Dashboard](https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/id-dashboard.svg)
 
-<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/id-dashboard.svg" width="100%" alt="Learning Dashboard">
-
-<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/connect.svg" width="100%" alt="Connect With Me">
-
-</div>
+![Connect With Me](https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/connect.svg)
 
 ## Featured Projects
 
@@ -27,8 +23,4 @@
 
 ---
 
-<div align="center">
-
 *Learning cybersecurity by building, testing, documenting, and improving.*
-
-</div>
