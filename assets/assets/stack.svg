@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240" role="img" aria-labelledby="t">
+<title id="t">Cybersecurity tools and technologies</title>
+<rect width="1000" height="240" rx="22" fill="#090f1d" stroke="#243757"/>
+<text x="35" y="43" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f1f5ff">02 / TOOLKIT</text>
+<text x="35" y="70" font-family="Arial,sans-serif" font-size="15" fill="#a9bad8">Tools and technologies used in coursework and controlled practice labs</text>
+<g font-family="monospace" font-size="16" text-anchor="middle">
+ <g transform="translate(35 100)"><rect width="170" height="52" rx="12" fill="#111f38" stroke="#247bff"/><text x="85" y="32" fill="#eaf1ff">Kali Linux</text></g>
+ <g transform="translate(225 100)"><rect width="170" height="52" rx="12" fill="#111f38" stroke="#ff354f"/><text x="85" y="32" fill="#eaf1ff">Snort 3</text></g>
+ <g transform="translate(415 100)"><rect width="170" height="52" rx="12" fill="#111f38" stroke="#247bff"/><text x="85" y="32" fill="#eaf1ff">Wireshark</text></g>
+ <g transform="translate(605 100)"><rect width="170" height="52" rx="12" fill="#111f38" stroke="#ff354f"/><text x="85" y="32" fill="#eaf1ff">Autopsy</text></g>
+ <g transform="translate(795 100)"><rect width="170" height="52" rx="12" fill="#111f38" stroke="#247bff"/><text x="85" y="32" fill="#eaf1ff">FTK Imager</text></g>
+ <g transform="translate(125 170)"><rect width="170" height="42" rx="21" fill="#122341"/><text x="85" y="27" font-size="14" fill="#8fbcff">Nmap</text></g>
+ <g transform="translate(315 170)"><rect width="170" height="42" rx="21" fill="#2b1725"/><text x="85" y="27" font-size="14" fill="#ff9aaa">Linux CLI</text></g>
+ <g transform="translate(505 170)"><rect width="170" height="42" rx="21" fill="#122341"/><text x="85" y="27" font-size="14" fill="#8fbcff">Git &amp; GitHub</text></g>
+ <g transform="translate(695 170)"><rect width="170" height="42" rx="21" fill="#2b1725"/><text x="85" y="27" font-size="14" fill="#ff9aaa">Python basics</text></g>
+</g>
+</svg>
