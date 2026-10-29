@@ -1,15 +1,15 @@
 
 <div align="center">
 
-![Cybersecurity Profile Hero](./assets/hero.svg)
+<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/hero.svg" width="100%" alt="Cybersecurity Profile Hero">
 
-![About Me](./assets/about-life.svg)
+<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/about-life.svg" width="100%" alt="About Me">
 
-![Cybersecurity Toolkit](./assets/stack.svg)
+<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/stack.svg" width="100%" alt="Cybersecurity Toolkit">
 
-![Learning Dashboard](./assets/id-dashboard.svg)
+<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/id-dashboard.svg" width="100%" alt="Learning Dashboard">
 
-![Connect With Me](./assets/connect.svg)
+<img src="https://raw.githubusercontent.com/abhijeet0911/abhijeet0911/main/assets/connect.svg" width="100%" alt="Connect With Me">
 
 </div>
 
