@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="230" viewBox="0 0 1000 230" role="img" aria-labelledby="t">
+<title id="t">About and interests</title>
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#0b1220"/><stop offset="1" stop-color="#101d35"/></linearGradient></defs>
+<rect width="1000" height="230" rx="22" fill="url(#b)" stroke="#243757"/>
+<text x="35" y="43" font-family="Arial,sans-serif" font-size="25" font-weight="700" fill="#f1f5ff">01 / ABOUT ME</text>
+<text x="35" y="79" font-family="Arial,sans-serif" font-size="16" fill="#b9c8e3">I'm building my cybersecurity skills through structured coursework and hands-on labs.</text>
+<text x="35" y="105" font-family="Arial,sans-serif" font-size="16" fill="#b9c8e3">My current focus includes network monitoring, ethical hacking fundamentals, and digital forensics.</text>
+<g transform="translate(35 138)">
+ <rect width="285" height="55" rx="12" fill="#111f38" stroke="#247bff" stroke-opacity=".6"/>
+ <text x="18" y="23" font-family="monospace" font-size="12" fill="#65a5ff">FOCUS</text><text x="18" y="42" font-family="Arial,sans-serif" font-size="15" fill="#f1f5ff">Network Security &amp; NIDS</text>
+</g>
+<g transform="translate(340 138)">
+ <rect width="285" height="55" rx="12" fill="#111f38" stroke="#ff354f" stroke-opacity=".55"/>
+ <text x="18" y="23" font-family="monospace" font-size="12" fill="#ff7182">PRACTICE</text><text x="18" y="42" font-family="Arial,sans-serif" font-size="15" fill="#f1f5ff">Forensics &amp; Security Labs</text>
+</g>
+<g transform="translate(645 138)">
+ <rect width="320" height="55" rx="12" fill="#111f38" stroke="#247bff" stroke-opacity=".6"/>
+ <text x="18" y="23" font-family="monospace" font-size="12" fill="#65a5ff">MINDSET</text><text x="18" y="42" font-family="Arial,sans-serif" font-size="15" fill="#f1f5ff">Learn • Test • Document</text>
+</g>
+</svg>
